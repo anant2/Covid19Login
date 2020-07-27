@@ -1,6 +1,8 @@
 # Covid19Login
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
+After cloning this repository `npm install` to download all the required dependency
+The application comprises of a login and home page. Login can be done using any username as no certain validation as been implemented. It has been left to you.
 
 ## Development server
 
